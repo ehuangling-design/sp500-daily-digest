@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T21:12:37.371542Z",
+  "timezone": "UTC",
+  "overall_score": 48.8,
+  "overall_label": "中性",
+  "overall_summary": "今日综合评分为 48.8 分（中性）。",
+  "item_count": 2,
+  "items": [
+    {
+      "rank": 1,
+      "title_zh": "Meta、谷歌、亚马逊、微软面临沃伦参议员关于AI税收补贴的质询",
+      "analysis_zh": "Senator Warren的质询引发对Meta、Google、Amazon、Microsoft等大型科技公司的监管成本和税收政策变化的担忧，可能提升对大盘科技股的风险厌恶情绪，对指数产生负面影响。然而，如果补贴被视为AI发展必需，整体影响可能有限。",
+      "positive_score": 2,
+      "negative_score": 4,
+      "importance": 7.5,
+      "net_score": -2,
+      "impact_strength": 3.0,
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/warren-senate-ai-subsidies-meta-google-amazon-microsoft.html",
+      "published_at": "2026-09-28T20:49:53+00:00",
+      "original_title": "Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies"
+    },
+    {
+      "rank": 2,
+      "title_zh": "OpenAI在Nvidia 130亿美元交易前以早期投资提议引发Hugging Face竞标",
+      "analysis_zh": "OpenAI提前向Hugging Face提供投资，预示AI行业的进一步整合。此举可能提升投资者对AI相关股票的信心，支持技术板块，带来积极的市场情绪。",
+      "positive_score": 4,
+      "negative_score": 2,
+      "importance": 6.8,
+      "net_score": 2,
+      "impact_strength": 3.0,
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
+      "published_at": "2026-09-28T20:36:55+00:00",
+      "original_title": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal"
+    }
+  ]
+}
