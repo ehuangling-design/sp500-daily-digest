@@ -79,7 +79,7 @@ def _build_news_list_text(candidates: List[Dict]) -> str:
             f"   来源: {item.get('source', '')}\n"
             f"   链接: {item.get('url', '')}\n"
             f"   时间: {item.get('published_at', '')}\n"
-            f"   摘要: {item.get('summary', '')[:300]}\n"
+            f"   摘要: {item.get('summary', '')[:120]}\n"
         )
     return "\n".join(lines)
 
