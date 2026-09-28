@@ -73,5 +73,5 @@ LATEST_JSON = os.path.join(OUTPUT_DIR, "latest.json")
 HISTORY_DIR = os.path.join(OUTPUT_DIR, "history")
 
 # ====================== 其他 ======================
-MAX_CANDIDATES_FOR_AI = 25  # 送给 AI 的最大候选数，防止 token 过多
+MAX_CANDIDATES_FOR_AI = 15  # 送给 AI 的最大候选数，防止 token 过多
 TOP_N = 15
