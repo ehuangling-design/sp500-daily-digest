@@ -64,7 +64,7 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 FINNHUB_API_KEY = os.getenv("FINNHUB_API_KEY", "")
 
 # 模型选择（可根据实际情况调整）
-GROQ_MODEL = "llama-3.3-70b-versatile"  # 或其他可用模型
+GROQ_MODEL = "openai/gpt-oss-20b"  # 或其他可用模型
 GEMINI_MODEL = "gemini-1.5-flash"
 
 # ====================== 输出 ======================
