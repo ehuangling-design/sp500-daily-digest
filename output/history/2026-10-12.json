@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T21:32:13.035282Z",
+  "timezone": "UTC",
+  "overall_score": 63.0,
+  "overall_label": "轻微偏多",
+  "overall_summary": "今日综合评分为 63.0 分（轻微偏多）。",
+  "item_count": 3,
+  "items": [
+    {
+      "rank": 1,
+      "title_zh": "微软实现市值突破4万亿美元，巩固其复苏势头",
+      "analysis_zh": "微软市值突破4万亿美元，显示其在科技板块的强劲复苏。此消息提升投资者对科技股的信心，可能带动标普500整体上涨。",
+      "positive_score": 5,
+      "negative_score": 1,
+      "importance": 8.5,
+      "net_score": 4,
+      "impact_strength": 3.0,
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+      "published_at": "2026-10-12T20:40:00+00:00",
+      "original_title": "Microsoft hits a big milestone that solidifies its revival"
+    },
+    {
+      "rank": 2,
+      "title_zh": "纳斯达克指数在收益和经济数据公布前下跌，显示投资者对短期盈利前景的担忧",
+      "analysis_zh": "纳斯达克指数在收益和经济数据公布前下跌，反映市场对短期盈利前景的担忧。此波动可能拖累标普500，尤其是高科技成分股。",
+      "positive_score": 1,
+      "negative_score": 4,
+      "importance": 8.0,
+      "net_score": -3,
+      "impact_strength": 2.5,
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOck00LVRZX0lQNUw5SGlYU09FOWw1dUVTNjZTQ0p6YklVVUlRSms1eVZRcDd6VjRySF9rOEptM3Nrd19mSURMa1dmbTdIOE1VZjJKdThIR0tabGRTdjBiX0JCWkVndjJFNkZrT0w4NzZ2VWVibjlyeVZHRmszeXRraWRfT0p2SDhSQnFTY3QycG05eHpjQVVLYk9yRF9UYzZ0VmZ6Sw?oc=5",
+      "published_at": "2026-10-12T20:38:15+00:00",
+      "original_title": "Nasdaq falls ahead of earnings, economic data while oil rallies - Reuters"
+    },
+    {
+      "rank": 3,
+      "title_zh": "Meta即将公布第三季度财报，市场预期强劲广告收入将支撑其股价",
+      "analysis_zh": "Meta即将公布第三季度财报，市场普遍预期其广告收入将强劲增长。若业绩符合预期，将提升科技板块估值，利好标普500。",
+      "positive_score": 4,
+      "negative_score": 2,
+      "importance": 7.5,
+      "net_score": 2,
+      "impact_strength": 3.0,
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3U3lJcl9LVHhQZm9pZHhyUzNUN2k3NGdBYVVsSWVXQ0FnQUtoZk41UVdzMC1qRkJwd24yZzcyZXVLdU5yVDR4QjZ3a3l6Q0Z2NFEySXpxRXVVVWU3czB4YzhDSU1XOVh5dTUtZnRHcmV2QmlreHh3?oc=5",
+      "published_at": "2026-10-12T20:55:13+00:00",
+      "original_title": "Meta to release Q3 2026 earnings on Oct 21 with a live call and webcast - Pluang"
+    }
+  ]
+}
