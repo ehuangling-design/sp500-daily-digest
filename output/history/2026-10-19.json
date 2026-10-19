@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T18:58:18.216607Z",
+  "timezone": "UTC",
+  "overall_score": 12.5,
+  "overall_label": "强烈偏空",
+  "overall_summary": "今日综合评分为 12.5 分（强烈偏空）。",
+  "item_count": 1,
+  "items": [
+    {
+      "rank": 1,
+      "title_zh": "Nvidia 股票真的只以2030年收益的8倍交易吗？",
+      "analysis_zh": "Nvidia的估值被质疑仅以2030年收益的8倍交易，可能引发市场对其高估值的重新评估。若投资者认为该估值过高，可能导致对科技板块的抛售，进而压低标普500。",
+      "positive_score": 1,
+      "negative_score": 4,
+      "importance": 9.5,
+      "net_score": -3,
+      "impact_strength": 2.5,
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSHRtemJFVUlybUs1dWN2RFBzTE9VTlg2ZnFxRWFwZDQtem9CME5VQTVwM3Z2OF9vSkVfN0FLOV9UdWd6UWloZlF6WnBOTFM2NjFWU2pPcUFmTzFlRUhDMDl3MFJOSV9fcFlaYkxsX3hvSThNMjQ0WXM1TGptRllUejd1ZWpYRU1GaW5FU0JrWkpmZ1VrNGtWaDcyX3hqQ1h0bWVnQzB4clFBeWRKUmtfOGtCNTA2dy1hM1g0aloxT2RMemU4dl83UFdlVWhUVWdkdUJEU1pDaHlhOTRxemJQUQ?oc=5",
+      "published_at": "2026-10-19T18:41:44+00:00",
+      "original_title": "Is Nvidia Stock Really Trading for Just 8 Times 2030 Earnings?"
+    }
+  ]
+}
