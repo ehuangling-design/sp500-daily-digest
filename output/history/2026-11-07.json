@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T17:56:44.322089Z",
+  "timezone": "UTC",
+  "overall_score": 30.8,
+  "overall_label": "偏空",
+  "overall_summary": "今日综合评分为 30.8 分（偏空）。",
+  "item_count": 5,
+  "items": [
+    {
+      "rank": 1,
+      "title_zh": "标普500指数自2025年4月关税崩盘以来出现最差一周",
+      "analysis_zh": "本周标普500指数出现自2025年4月关税崩盘以来最差表现，显示市场风险情绪高涨。技术股的高比重使得指数更易受到宏观不确定性的冲击。投资者可能会加速抛售高估值股票，导致指数进一步下行。",
+      "positive_score": 1,
+      "negative_score": 5,
+      "importance": 9.5,
+      "net_score": -4,
+      "impact_strength": 3.0,
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZDRKeVM5RVBqdTNvVWkwRmVZWUppNHFqbk05TkhNc3JJVTJXTVd6Qndsa2RXbGtPZHdxMWg5czlORzZpcTRyTktYUFdJbTRMNElKLUl4VDBGTG1YVUpVSDlGN2w4dlVFcFB1cnZjeHFBeEtmY1dYV1ZXb09aMnJXcVFRRUJTaFdfbDdJMEc5NURuMmZrRHFJOElwdFBUV2t2OHVwRE1CckY2VkozSXhYdFdn?oc=5",
+      "published_at": "2026-11-07T17:33:00+00:00",
+      "original_title": "The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash - 24/7 Wall St."
+    },
+    {
+      "rank": 2,
+      "title_zh": "标普500指数可能过度暴露于人工智能，以下是一些简单替代方案",
+      "analysis_zh": "文章指出标普500指数在人工智能相关股票上的集中度过高，可能导致波动性上升。投资者可能会重新评估AI驱动公司的权重，进行资产再平衡。若AI行业出现逆风，指数可能面临下行压力。",
+      "positive_score": 2,
+      "negative_score": 4,
+      "importance": 8.0,
+      "net_score": -2,
+      "impact_strength": 3.0,
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "published_at": "2026-11-07T16:40:00+00:00",
+      "original_title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives."
+    },
+    {
+      "rank": 3,
+      "title_zh": "大型科技公司财报：人工智能支出、云计算增长与现金流",
+      "analysis_zh": "本报告显示大型科技公司在人工智能和云计算领域的支出持续增长，同时保持强劲现金流。高支出可能压缩短期利润，但长期技术领先地位有助于提升估值。投资者将关注其盈利能力与资本支出之间的平衡。",
+      "positive_score": 4,
+      "negative_score": 2,
+      "importance": 7.8,
+      "net_score": 2,
+      "impact_strength": 3.0,
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOempsYi1sMXhFVE5LdlE4c2ViTWZ1M2xaLV84cm1scUY2b3FvZDB3NWJHUWZfU245MFhKLWVhOEEwZDU1d1ZpVEhXbVVfSW5uMTljeDhFdW1wcjgxNTlhRmk2LW1Vc3VLenRXa09JekFRN0puYTY3U2hsaGJLdG5CajlrR3N4TGxLb1llbl9QNWZRN2Jz?oc=5",
+      "published_at": "2026-11-07T16:36:43+00:00",
+      "original_title": "Big Tech Earnings: AI Spending, Cloud Growth and Cash Flow - www.equiti.com"
+    },
+    {
+      "rank": 4,
+      "title_zh": "苹果市盈率36倍，面临200美元AI上限（2026）",
+      "analysis_zh": "苹果公司以36倍市盈率交易，市场对其未来AI业务的增长预期被上限限制。若AI上限被视为估值约束，投资者可能重新评估苹果的盈利空间。此举可能导致苹果股价短期调整，进而影响标普500指数。",
+      "positive_score": 2,
+      "negative_score": 4,
+      "importance": 7.5,
+      "net_score": -2,
+      "impact_strength": 3.0,
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVc2eTVvMWJGX2RkZ2FENHVKcUJVU2tTb3lfQkFBRUxQUjJvOWlINl9hY1ZzMFdUeVREUER3R1c0NFVoMDVyQk9vc2Y0SUctMUJSa0c4Q2w5eWpQVGxFQnNXOVJBbXN5bTBtNzBOdjBtenZ3YmN0cUM5VmdSUDE2eHdyY3pHSHVybGc?oc=5",
+      "published_at": "2026-11-07T15:38:19+00:00",
+      "original_title": "Apple at 36x Earnings Faces a $200 AI Cap [2026] - https://tech-insider.org/"
+    },
+    {
+      "rank": 5,
+      "title_zh": "2027年税率表已公布，了解标准扣除额和州地方税收减免",
+      "analysis_zh": "新的税率表将影响企业利润和消费者支出，进而影响整体经济增长。税收政策的调整可能导致企业盈利预期波动，影响股价。投资者需关注税改对不同行业的分布式影响。",
+      "positive_score": 3,
+      "negative_score": 3,
+      "importance": 6.5,
+      "net_score": 0,
+      "impact_strength": 3.0,
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+      "published_at": "2026-11-07T16:30:00+00:00",
+      "original_title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be."
+    }
+  ]
+}
